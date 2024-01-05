@@ -8,6 +8,8 @@ All mods were scanned using [VirusTotal](https://www.virustotal.com) as of 2024-
 
 | Mod              | Version | Author          | Source Link                                                                |
 |------------------|---------|-----------------|----------------------------------------------------------------------------|
+| BepInExPack      | 5.4.21  | BepInEx         | https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/            |
+| MoreCompany      | 1.7.2   | notnotnotswipez | https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/    |
 | Helmet Cameras   | 2.1.5   | RickArg         | https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/         |
 | AdditionalSuits  | v1.1.3  | AlexCodesGames  | https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/ |
 | DiscountAlert    | v2.3.0  | akechii         | https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/          |
